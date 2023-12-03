@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5479262fda0cd2aa",
+        "id": "e1f9278ba62672d8",
         "type": "tabs",
         "children": [
           {
-            "id": "cdae1b523b9fdc90",
+            "id": "be3f9e4ae2366819",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Step 1 - The basics/Step 1.1 - C++ basics/i - Time Complexity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Step 1 - The basics/Step 1.1 - C++ basics/i - Time Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Step 1 - The basics/Step 1.1 - C++ basics/i - Time Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Step 1 - The basics/Step 1.1 - C++ basics/i - Time Complexity.md"
+              }
             }
           }
         ]
@@ -138,8 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "216b6a3586dd3b38",
+  "active": "be3f9e4ae2366819",
   "lastOpenFiles": [
-    "README.md"
+    "Step 1 - The basics/Step 1.1 - C++ basics/c - If Else statements.md",
+    "Step 1 - The basics/Step 1.1 - C++ basics/d - Switch statements.md",
+    "Step 1 - The basics/Step 1.1 - C++ basics/i - Time Complexity.md",
+    "Step 1 - The basics/Step 1.1 - C++ basics/h - Functions (pass by value vs pass by reference).md",
+    "Step 1 - The basics/Step 1.1 - C++ basics/g - While loops.md",
+    "Step 1 - The basics/Step 1.1 - C++ basics/f - For loops.md",
+    "Step 1 - The basics/Step 1.1 - C++ basics/e - Arrays and strings.md",
+    "Step 1 - The basics/Step 1.1 - C++ basics/b - Data Types.md",
+    "Step 1 - The basics/Step 1.1 - C++ basics/a - User Input Output.md",
+    "Step 1 - The basics/Step 1.2 - Build up logical thinking/Patterns.md",
+    "README.md",
+    "Step 1 - The basics/Step 1.2 - Build up logical thinking",
+    "Step 1 - The basics/Step 1.1 - C++ basics",
+    "Step 1 - The basics"
   ]
 }
